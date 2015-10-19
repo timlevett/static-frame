@@ -1,6 +1,10 @@
 {
-  "name": "static-frame",
+  "name": "tim-uw-static-frame",
   "version": "1.0.0",
+  "repository" : {
+    "type" : "git",
+    "url"  : "git@github.com:timlevett/static-frame.git"
+  },
   "authors": [
     "Jared Hanstra <jared.hanstra@wisc.edu>",
     "Tim Levett <tim.levett@wisc.edu>"
